@@ -1,0 +1,5 @@
+{
+  "name": "ChromaSplit Pro",
+  "description": "An advanced RGB channel isolation and color analysis tool. Upload images to split them into Red, Green, and Blue components, visualize color histograms, and get AI-powered color grading suggestions.",
+  "requestFramePermissions": []
+}
